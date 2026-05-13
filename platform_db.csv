@@ -1,0 +1,77 @@
+SYS_COUNTER,40,15,1016
+TBL_USER,Client,1,TechCorp,pass123,8500.00,2500.00,5,5:Faizan:Excellent communication and prompt escrow funding!|2:Yuneeb:Guidelines were unclear and delayed our initial scope.|4:Shahrukh Khan:Good experience overall once specs were clarified.
+TBL_USER,Client,2,GlobalMedia,pass123,6200.00,1800.00,6,4:Bilal:Creative mandate with smooth feedback cycles.|4:Hamza:Compensated fairly for additional feature requests.|3:Kamran:Payment took a few extra days to clear escrow.|5:Usman:Absolute pleasure collaborating on stream updates.
+TBL_USER,Client,3,NexusAI,pass123,9000.00,3500.00,6,5:Zainab:Cutting-edge AI requirements and fast milestone approvals.|5:Tariq:Brilliant technical team providing complete documentation.|5:Ayesha:Perfect client to work with for custom API modules.
+TBL_USER,Client,4,FinTrust,pass123,12000.00,4500.00,4,1:Usman:Extremely rigid security audits caused major friction.|3:Shahrukh Khan:Specs changed mid-project but escrow was funded.|4:Kamran:Reliable communication but strict delivery milestones.
+TBL_USER,Client,5,HealthPulse,pass123,5380.00,1420.00,6,3:Faizan:Supportive team but response times were quite slow.|5:Shahrukh Khan:Highly structured medical wireframing mandates.|4:Zainab:Good communication regarding real-time diagnostic scopes.|2:Ayesha:Project put on hold unexpectedly for two weeks.
+TBL_USER,Freelancer,6,Faizan,pass123,450.00,0.00,8,5:TechCorp:Flawless C++ memory architecture delivered ahead of time!|4:NexusAI:Solid code optimization and deep technical skills.|4:FinTrust:Secure implementations matching our database schemas.|5:HealthPulse:Exceptional custom backend tuning and fast delivery.
+TBL_USER,Freelancer,7,Yuneeb,pass123,320.00,0.00,5,3:GlobalMedia:Visual rhythm was decent but missed some project cues.|2:HealthPulse:Delivered videos late due to software rendering issues.|4:TechCorp:Creative motion edits once revisions were completed.
+TBL_USER,Freelancer,8,Shahrukh Khan,pass123,680.00,0.00,7,5:TechCorp:Robust Node.js REST API and perfect server integration.|5:FinTrust:Flawless AWS CI/CD automation with zero downtime.|4:GlobalMedia:Highly responsive UI components delivered cleanly.|5:HealthPulse:Superb full-stack architecture execution.
+TBL_USER,Freelancer,9,Bilal,pass123,210.00,0.00,4,2:GlobalMedia:App logic had multiple state synchronization bugs.|3:HealthPulse:Firebase authentication pipelines required patches.|1:NexusAI:Did not follow the provided Figma wireframe guidelines.
+TBL_USER,Freelancer,10,Hamza,pass123,540.00,0.00,6,4:NexusAI:Precise predictive models with good statistical backing.|3:GlobalMedia:Data reports were useful but needed formatting tweaks.|5:FinTrust:Superb machine learning pipelines suitable for trading.
+TBL_USER,Freelancer,11,Kamran,pass123,750.00,0.00,5,5:GlobalMedia:Handled high-speed web scraping scripts perfectly.|5:TechCorp:Excellent Redis caching setup solving our server load.|3:FinTrust:E-commerce storefront had minor payment gateway delays.
+TBL_USER,Freelancer,12,Zainab,pass123,890.00,0.00,9,5:NexusAI:Built a state-of-the-art YOLOv8 vision framework flawlessly!|5:HealthPulse:Outstanding work integrating real-time diagnostics.|5:TechCorp:Perfect LangChain chatbot logic utilizing deep embeddings.|5:GlobalMedia:Absolute expert in vector database indexing.
+TBL_USER,Freelancer,13,Tariq,pass123,1720.00,620.00,6,4:FinTrust:Identified critical network vulnerabilities effectively.|1:NexusAI:Kernel module implementation caused server thread panics.|2:TechCorp:Security hardening protocols delivered incomplete.|3:VERIFIED_PROXY:RUDE but good work
+TBL_USER,Freelancer,14,Ayesha,pass123,430.00,0.00,5,3:GlobalMedia:Three.js scene was visually appealing but heavy on load.|4:NexusAI:Sleek minimalist dashboard matching our brand identity.|3:HealthPulse:Good wireframes but needed multiple revision rounds.
+TBL_USER,Freelancer,15,Usman,pass123,620.00,0.00,6,5:FinTrust:Engineered highly resilient Kafka messaging topologies.|4:GlobalMedia:Reliable streaming pipelines handling bulk data loads.|4:TechCorp:Solid distributed ETL architecture and server tuning.
+TBL_GIG,21,9,Bilal,Secure Mobile Firebase Authentication & Cloud Store Sync,Mobile,Firebase Mobile Backend Sync Realtime,100.00,true
+TBL_GIG,20,9,Bilal,Figma to High-Fidelity Pixel-Perfect Interactive UIs,Mobile,Figma UI UX Mobile Design Prototyping,110.00,true
+TBL_GIG,19,9,Bilal,Cross-Platform Native iOS & Android Apps via Flutter,Mobile,Flutter Dart Mobile App iOS Android,150.00,true
+TBL_GIG,26,11,Kamran,Custom High-Speed Redis Memory Caching Layers,Web Dev,Redis Caching Memory HighSpeed Server,120.00,true
+TBL_GIG,27,11,Kamran,Automated Web Scraping & Headless Puppeteer Extraction,Data,Scraping Puppeteer Extraction Python Crawler,110.00,true
+TBL_GIG,25,11,Kamran,End-to-End Enterprise E-Commerce Storefront Systems,Web Dev,ECommerce Stripe Payment Gateway Integration,200.00,true
+TBL_GIG,35,14,Ayesha,Interactive 3D Three.js Visual Web Prototypes,Web Dev,ThreeJS WebGL 3D Interactive Rendering,160.00,true
+TBL_GIG,34,14,Ayesha,Sleek Minimalist Brand Identity & UI/UX Wireframing,Design,Brand Identity Design UI UX Wireframing,140.00,true
+TBL_GIG,36,14,Ayesha,High-Conversion Landing Page Visual Assets & Assets Kits,Design,LandingPage Assets Kits Illustrator Vector,100.00,true
+TBL_GIG,13,7,Yuneeb,Cinematic 4K Video Editing & Social Media Retention Strategy,Design,Premiere AfterEffects Video Strategy,130.00,true
+TBL_GIG,15,7,Yuneeb,Short-Form High-Impact Reels/TikTok Optimized Edits,Design,Reels TikTok Shorts Retention,100.00,true
+TBL_GIG,14,7,Yuneeb,Advanced Dynamic Motion Graphics & Custom Title Intros,Design,MotionGraphics Animation 2D 3D,110.00,true
+TBL_GIG,38,15,Usman,Automated High-Volume ETL Data Warehousing Pipelines,Data,ETL DataWarehouse Spark Pipelines BigData,160.00,true
+TBL_GIG,37,15,Usman,Custom Enterprise Apache Kafka Message Queue Topologies,Data,Kafka Messaging Queue Streaming Microservices,180.00,true
+TBL_GIG,39,15,Usman,Low-Latency Real-Time Telemetry Pipelining Systems,Data,Telemetry Realtime Pipelining Scalable Sockets,150.00,true
+TBL_GIG,24,10,Hamza,Exploratory Data Analysis & Automated Matplotlib Reports,Data,DataScience Pandas Matplotlib Analysis,100.00,true
+TBL_GIG,22,10,Hamza,Advanced Predictive Machine Learning Models in Python,AI/ML,Python ScikitLearn XGBoost Predictive,180.00,true
+TBL_GIG,23,10,Hamza,Custom Natural Language Processing & BERT Integration,AI/ML,NLP BERT TextClassification Python,160.00,true
+TBL_GIG,33,13,Tariq,Zero-Knowledge Cryptographic Protocol Prototyping,Data,Crypto ZeroKnowledge Security Protocol Algorithms,220.00,true
+TBL_GIG,32,13,Tariq,Secure Linux Kernel Module Programming & IPC Hardening,Web Dev,Linux Kernel C++ Security IPC Modules,180.00,true
+TBL_GIG,31,13,Tariq,Enterprise Network Security Auditing & Penetration Testing,Data,CyberSecurity PenTest Auditing Hardening,250.00,true
+TBL_GIG,18,8,Shahrukh Khan,Automated AWS/Docker CI/CD Deployment Pipelines,Web Dev,AWS Docker DevOps Kubernetes CI CD,160.00,true
+TBL_GIG,17,8,Shahrukh Khan,Highly Reactive Custom React.js Single Page Web Apps,Web Dev,React Frontend UI UX Tailwind,120.00,true
+TBL_GIG,16,8,Shahrukh Khan,Scalable Distributed Node.js & Express REST/GraphQL APIs,Web Dev,Node Express Backend REST API,140.00,true
+TBL_GIG,11,6,Faizan,High-Performance Qt/QML Cross-Platform Desktop UIs,Design,Qt QML Desktop GUI,120.00,true
+TBL_GIG,12,6,Faizan,Low-Level SQLite Database Optimization & Schema Tuning,Data,SQLite SQL Tuning Optimization,100.00,true
+TBL_GIG,10,6,Faizan,Full-Stack Custom C++ Enterprise Database Engines,Web Dev,C++ OOP Relational,150.00,true
+TBL_GIG,29,12,Zainab,Vision-Based Real-Time Object Detection via YOLOv8,AI/ML,ComputerVision YOLOv8 OpenCV ObjectDetection,190.00,true
+TBL_GIG,30,12,Zainab,Vector Database ChromaDB Semantic Search Indexing,AI/ML,ChromaDB Vector SemanticSearch Embedding,150.00,true
+TBL_GIG,28,12,Zainab,Production-Ready LangChain Custom Enterprise Chatbots,AI/ML,LangChain Chatbot LLM OpenAI Integration,170.00,true
+TBL_PROJECT,10,1,TechCorp,Enterprise Cloud Migration & DevOps,Web Dev,1000.00,true,2026-05-12 07:20:56,none
+TBL_PROJECT,11,2,GlobalMedia,Next-Gen OTT Streaming Architecture,Web Dev,1200.00,true,2026-05-12 07:20:56,none
+TBL_PROJECT,12,3,NexusAI,Autonomous Multi-Agent LLM Orchestrator,AI/ML,950.00,true,2026-05-12 07:20:56,none
+TBL_PROJECT,13,4,FinTrust,High-Frequency Trading Ledger System,Data,1100.00,true,2026-05-12 07:20:56,none
+TBL_PROJECT,14,5,HealthPulse,Telemedicine Video Diagnostic Engine,Web Dev,850.00,true,2026-05-12 07:20:56,none
+TBL_MSG,Tariq,TechCorp,2026-05-12 07:20:56,Please release payment for the completed work.
+TBL_MSG,Tariq,HealthPulse,2026-05-12 07:20:56,Please release payment for the completed work.
+TBL_MSG,HealthPulse,Tariq,2026-05-12 07:20:56,ok u earned it
+TBL_MSG,HealthPulse,Tariq,2026-05-12 07:20:56,Payment of $220.0 sent successfully.
+TBL_MSG,Tariq,NexusAI,2026-05-12 07:20:56,I can work on that but will take a week u cool with that
+TBL_MSG,NexusAI,Tariq,2026-05-12 07:20:56,COOL lemme confirm with my manager
+TBL_MSG,Tariq,NexusAI,2026-05-12 07:20:56,Please release payment for the completed work.
+TBL_MSG,NexusAI,Tariq,2026-05-12 07:20:56,Payment of $400.0 sent successfully.
+TBL_MSG,Tariq,NexusAI,2026-05-12 07:20:56,Jazakallah
+TBL_MSG,TechCorp,Shahrukh Khan,2026-05-12 07:20:56,AOA WHEN WIAWDWIPAWJOI
+TBL_MSG,Shahrukh Khan,TechCorp,2026-05-12 07:20:56,awuodhauodhawoudw
+TBL_AUDIT,TX-AUDIT-1001,2026-05-12 07:20:56,CAPITAL_INJECTION,HealthPulse,Operator+= loaded balance $200.000000
+TBL_AUDIT,TX-AUDIT-1002,2026-05-12 07:20:56,MESSAGE_DISPATCH,Tariq,Piped IPC chat buffer to TechCorp
+TBL_AUDIT,TX-AUDIT-1003,2026-05-12 07:20:56,MESSAGE_DISPATCH,Tariq,Piped IPC chat buffer to HealthPulse
+TBL_AUDIT,TX-AUDIT-1004,2026-05-12 07:20:56,MESSAGE_DISPATCH,HealthPulse,Piped IPC chat buffer to Tariq
+TBL_AUDIT,TX-AUDIT-1005,2026-05-12 07:20:56,CONTRACT_EXECUTION,HealthPulse,Contract settled. Asset balance shift $220.00
+TBL_AUDIT,TX-AUDIT-1006,2026-05-12 07:20:56,MESSAGE_DISPATCH,HealthPulse,Piped IPC chat buffer to Tariq
+TBL_AUDIT,TX-AUDIT-1007,2026-05-12 07:20:56,MESSAGE_DISPATCH,Tariq,Piped IPC chat buffer to NexusAI
+TBL_AUDIT,TX-AUDIT-1008,2026-05-12 07:20:56,MESSAGE_DISPATCH,NexusAI,Piped IPC chat buffer to Tariq
+TBL_AUDIT,TX-AUDIT-1009,2026-05-12 07:20:56,MESSAGE_DISPATCH,Tariq,Piped IPC chat buffer to NexusAI
+TBL_AUDIT,TX-AUDIT-1010,2026-05-12 07:20:56,CONTRACT_EXECUTION,NexusAI,Contract settled. Asset balance shift $400.00
+TBL_AUDIT,TX-AUDIT-1011,2026-05-12 07:20:56,MESSAGE_DISPATCH,NexusAI,Piped IPC chat buffer to Tariq
+TBL_AUDIT,TX-AUDIT-1012,2026-05-12 07:20:56,MESSAGE_DISPATCH,Tariq,Piped IPC chat buffer to NexusAI
+TBL_AUDIT,TX-AUDIT-1013,2026-05-12 07:20:56,REVIEW_COMMITTED,SYSTEM,Evaluation appended to node ID 13
+TBL_AUDIT,TX-AUDIT-1014,2026-05-12 07:20:56,MESSAGE_DISPATCH,TechCorp,Piped IPC chat buffer to Shahrukh Khan
+TBL_AUDIT,TX-AUDIT-1015,2026-05-12 07:20:56,MESSAGE_DISPATCH,Shahrukh Khan,Piped IPC chat buffer to TechCorp
