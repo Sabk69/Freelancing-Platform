@@ -65,16 +65,23 @@ def render_tags(tag_string):
         badges += f'<span style="background-color: {bg}; color: {tc}; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: bold; margin-right: 5px; display: inline-block;">{tag}</span>'
     return badges
 
-# --- Connect to C++ Backend ---
+# --- Connect to C++ Backend & Auto-Compile for Cloud ---
 def get_binary_path():
     return './backend.exe' if os.name == 'nt' else './backend'
 
 if 'cpp_core' not in st.session_state:
     binary = get_binary_path()
+    
+    # Auto-compile logic if binary doesn't exist (essential for Streamlit Community Cloud deployment)
     if not os.path.exists(binary):
-        st.error(f"⚠️ **Backend file not found:** `{binary}`. Please compile your C++ code first.")
-        st.stop()
-        
+        with st.spinner("Compiling C++ Enterprise Core for Cloud Environment... ⚙️"):
+            compile_cmd = ["g++", "-o", "backend", "backend.cpp"] if os.name != 'nt' else ["g++", "-o", "backend.exe", "backend.cpp"]
+            compile_res = subprocess.run(compile_cmd, capture_output=True, text=True)
+            
+            if compile_res.returncode != 0:
+                st.error(f"⚠️ C++ Compilation Failed:\n{compile_res.stderr}")
+                st.stop()
+                
     st.session_state.cpp_core = subprocess.Popen(
         [binary], stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, bufsize=1
     )
